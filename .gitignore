@@ -26,3 +26,6 @@ docs
 tmp
 .ignore
 
+# Package RC files
+.npmrc
+.yarnrc
